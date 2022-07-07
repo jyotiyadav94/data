@@ -89,6 +89,7 @@ class Sroie(datasets.GeneratorBasedBuilder):
                                     'sf_key',
                                     'sf_value',
                                     'classpericolo_key',
+                                    'classpericolo_value',
                                     'destino_key',
                                     'destino_value',
                                     'confezionamento_key',
