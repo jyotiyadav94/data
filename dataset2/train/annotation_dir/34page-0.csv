@@ -111,7 +111,7 @@ level,page_num,block_num,par_num,line_num,word_num,left,top,width,height,conf,te
 5,1,23,2,1,4,603,705,10,3,92,-,unitloc_value
 5,1,23,2,1,5,628,690,150,33,91,"Dante,20",unitloc_value
 5,1,23,2,1,6,791,690,101,27,95,50018,unitloc_value
-5,1,23,2,1,7,1296,690,176,34,92,Operatore,operatore_key
+5,1,23,2,1,7,1296,690,176,34,92,Operatore,others
 5,1,23,2,1,8,1635,690,105,27,93,Bianca,others
 5,1,23,2,1,9,1754,689,99,28,91,Zeloni,others
 5,1,23,2,1,10,1867,705,10,3,92,-,others
